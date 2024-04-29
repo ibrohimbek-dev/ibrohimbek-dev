@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibrohimbek-Dev
+- 👋 Hi, I’m @ibrohimbek-dev
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on ...
