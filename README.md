@@ -144,7 +144,7 @@
            style="display: block; margin: 10px 0;">
     </li>
     <li style="margin-bottom: 20px;">
-      <h2>My Java Script Algorithms and Data Structure Certificate</h2>
+      <h2>My JavaScript Algorithms and Data Structure Certificate</h2>
       <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Ffreecodecamp-webp.webp?alt=media&token=cafab9ff-4b68-420c-b357-51226bbfa827" 
            alt="My Java Script Algorithms and Data Structure Certificate" 
            width="100%" 
