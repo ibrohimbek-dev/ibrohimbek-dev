@@ -48,13 +48,10 @@
 
 
 <div class="section">
-  <div class="section-title">Achivements</div>
-
-  <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.pdf?alt=media&token=1b9155f2-9d5c-483a-8a88-14ac99adaa7f" 
-       alt="Ibrohimbek Alisherov on LinkedIn" 
-       title="Ibrohimbek Alisherov on LinkedIn" 
-       width="150" 
-       height="150" 
-       style="border-radius: 50%; display: block; margin: 0 auto;">
+  <div class="section-title">Achievements</div>
+  <a href="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.pdf?alt=media&token=1b9155f2-9d5c-483a-8a88-14ac99adaa7f" target="_blank" title="View MERN Stack Udemy Certificate" style="color: #007bff; text-decoration: none; font-weight: bold;">
+    View MERN Stack Udemy Certificate
+  </a>
 </div>
+
 
