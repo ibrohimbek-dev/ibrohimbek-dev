@@ -8,9 +8,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fme-linkedin-jpg-rounded-webp.webp?alt=media&token=c50f8ade-bcca-4ef9-883e-4d365576c631" 
        alt="Ibrohimbek Alisherov on LinkedIn" 
        title="Ibrohimbek Alisherov on LinkedIn" 
-       width="150" 
-       height="150" 
-       style="border-radius: 50%; display: block; margin: 0 auto;">
+   >
 </div>
 
 
@@ -50,7 +48,7 @@
 <div class="section">
   <div class="section-title">Achivements</div>
 
-  <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.webp?alt=media&token=795cb9c1-dae1-4ab2-9987-fd613b95b765" 
+  <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.pdf?alt=media&token=1b9155f2-9d5c-483a-8a88-14ac99adaa7f" 
        alt="Ibrohimbek Alisherov on LinkedIn" 
        title="Ibrohimbek Alisherov on LinkedIn" 
        width="150" 
