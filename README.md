@@ -4,30 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me t.me: @memberofns
 
-<style>
-  .section-title {
-    font-size: 1.5em;
-    margin-bottom: 0.5em;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 0.2em;
-  }
-  .link-list {
-    list-style: none;
-    padding: 0;
-  }
-  .link-list li {
-    margin: 0.5em 0;
-  }
-  .link-list a {
-    text-decoration: none;
-    color: #0366d6;
-    font-weight: bold;
-  }
-  .link-list a:hover {
-    text-decoration: underline;
-  }
-</style>
-
 <div class="section">
   <div class="section-title">Author: Ibrohimbek Alisherov</div>
   <ul class="link-list">
