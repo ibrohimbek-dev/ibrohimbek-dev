@@ -117,7 +117,7 @@
 					<img src="https://img.icons8.com/?size=100&id=AU6Wc7r56Fxz&format=png&color=000000" alt="next js" width="50" height="50" />
 					<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="node js" width="50" height="50" />
 					<img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=fe7f2d" alt="express js" width="50" height="50" />
-					<img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="html" width="50" height="50" />
+					<img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="mongodb" width="50" height="50" />
 					<img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="nest js" width="50" height="50" />
 					<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="docker" width="50" height="50" />
 					<img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" alt="linux" width="50" height="50" />
