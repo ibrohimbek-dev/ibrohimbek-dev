@@ -8,8 +8,10 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fme-linkedin-jpg-rounded-webp.webp?alt=media&token=c50f8ade-bcca-4ef9-883e-4d365576c631" 
        alt="Ibrohimbek Alisherov on LinkedIn" 
        title="Ibrohimbek Alisherov on LinkedIn" 
-   >
+       width="150" 
+       height="150" 
 </div>
+
 
 
 <div class="section">
