@@ -24,7 +24,7 @@
 </div>
 
 <div class="section">
-  <h1 class="section-title">Coding</h1>
+  <h1 class="section-title">Coding Social Link</h1>
   <ul class="link-list">
     <li><a href="https://t.me/devcode0101" target="_blank" title="Visit Coding on Telegram">Coding on Telegram</a></li>
     <li><a href="https://www.youtube.com/@devcode0101" target="_blank" title="Visit Coding on YouTube">Coding on YouTube</a></li>
@@ -34,7 +34,7 @@
 </div>
 
 <div class="section">
-  <h1 class="section-title">Me</h1>
+  <h1 class="section-title">Me Social Link</h1>
   <ul class="link-list">
     <li><a href="https://t.me/ibrohimbek0127" target="_blank" title="Visit Me on Telegram">Me on Telegram</a></li>
     <li><a href="https://www.youtube.com/@ibrohimbek-dev" target="_blank" title="Visit Me on YouTube">Me on YouTube</a></li>
@@ -108,7 +108,7 @@
            style="display: block; margin: 10px 0;">
     </li>
     <li style="margin-bottom: 20px;">
-      <h2>My JavaSCript Journey (2022-11-15)</h2>
+      <h2>My JavaScript Journey (2022-11-15)</h2>
       <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fsb-js-webp.webp?alt=media&token=2879a05e-f26b-4559-9b3b-097163fac00b" 
            alt="My JavaSCript Journey (2022-11-15)" 
            width="100%" 
