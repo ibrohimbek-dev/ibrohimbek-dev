@@ -26,3 +26,26 @@ Me on Linkedin: https://www.linkedin.com/in/ibrohimbek-dev
 Me on Instagram: https://www.instagram.com/ibek0127
 Me on Link Tree: https://ibrohimbek.link
 Me on Admin: https://t.me/memberofns
+
+
+# My Project
+
+<p>This is a paragraph of text.</p>
+
+<h2>Subheading</h2>
+
+<ul>
+  <li>List item 1</li>
+  <li>List item 2</li>
+  <li>List item 3</li>
+</ul>
+
+<a href="https://example.com">This is a link</a>
+
+<img src="https://example.com/image.jpg" alt="Example Image" width="200">
+
+<pre><code>
+  function example() {
+    console.log("This is some code");
+  }
+</code></pre>
