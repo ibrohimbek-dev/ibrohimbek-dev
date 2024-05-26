@@ -15,7 +15,7 @@
 
 
 <div class="section">
-  <div class="section-title">Author: Ibrohimbek Alisherov</div>
+  <h1 class="section-title">Author: Ibrohimbek Alisherov</h1>
   <ul class="link-list">
 <li><a href="https://t.me/ns_uzb" target="_blank" title="Visit English on Telegram">English on Telegram</a></li>
     <li><a href="https://www.youtube.com/@nsuzb" target="_blank" title="Visit English on YouTube">English on YouTube</a></li>
@@ -24,7 +24,7 @@
 </div>
 
 <div class="section">
-  <div class="section-title">Coding</div>
+  <h1 class="section-title">Coding</h1>
   <ul class="link-list">
     <li><a href="https://t.me/devcode0101" target="_blank" title="Visit Coding on Telegram">Coding on Telegram</a></li>
     <li><a href="https://www.youtube.com/@devcode0101" target="_blank" title="Visit Coding on YouTube">Coding on YouTube</a></li>
@@ -34,7 +34,7 @@
 </div>
 
 <div class="section">
-  <div class="section-title">Me</div>
+  <h1 class="section-title">Me</h1>
   <ul class="link-list">
     <li><a href="https://t.me/ibrohimbek0127" target="_blank" title="Visit Me on Telegram">Me on Telegram</a></li>
     <li><a href="https://www.youtube.com/@ibrohimbek-dev" target="_blank" title="Visit Me on YouTube">Me on YouTube</a></li>
@@ -47,10 +47,10 @@
 </div>
 
 <div class="section">
-  <div class="section-title">Achievements & Certificates</div>
+  <h1 class="section-title">Achievements & Certificates</h1>
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 20px;">
-      <div>Udemy MERN Stack Certificate</div>
+      <h2>Udemy MERN Stack Certificate</h2>
       <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.webp?alt=media&token=795cb9c1-dae1-4ab2-9987-fd613b95b765" 
            alt="MERN Stack Udemy Certificate" 
            width="100%" 
@@ -60,12 +60,21 @@
     </li>
     <!-- Add more achievements below following the same structure -->
     <li style="margin-bottom: 20px;">
-      <div>My Java Script Algorithms and Data Structure Certificate</div>
+      <h2>My Java Script Algorithms and Data Structure Certificate</h2>
       <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Ffreecodecamp-webp.webp?alt=media&token=cafab9ff-4b68-420c-b357-51226bbfa827" 
            alt="Description of another achievement" 
            width="100%" 
            height="100%" 
            title="My Java Script Algorithms and Data Structure Certificate"
+           style="display: block; margin: 10px 0;">
+    </li>
+        <li style="margin-bottom: 20px;">
+      <h2>My MERN Stack Sammi Ac BootCamp</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fsammi-ac-webp.webp?alt=media&token=4c6c8c0c-ef9b-4f3b-963e-4ff204f00d6f" 
+           alt="Description of another achievement" 
+           width="100%" 
+           height="100%" 
+           title="My MERN Stack Sammi Ac BootCamp"
            style="display: block; margin: 10px 0;">
     </li>
   </ul>
