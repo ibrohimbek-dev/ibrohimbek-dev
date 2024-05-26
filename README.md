@@ -46,12 +46,17 @@
   </ul>
 </div>
 
-
 <div class="section">
   <div class="section-title">Achievements</div>
-  <a href="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.pdf?alt=media&token=1b9155f2-9d5c-483a-8a88-14ac99adaa7f" target="_blank" title="View MERN Stack Udemy Certificate" style="color: #007bff; text-decoration: none; font-weight: bold;">
-    View MERN Stack Udemy Certificate
+    <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.webp?alt=media&token=795cb9c1-dae1-4ab2-9987-fd613b95b765" 
+         alt="MERN Stack Udemy Certificate" 
+         width="150" 
+         height="150" 
+      title="My Mern Stack Udemy Certificate"
+         >
   </a>
 </div>
+
+
 
 
