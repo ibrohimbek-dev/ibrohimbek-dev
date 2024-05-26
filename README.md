@@ -46,9 +46,85 @@
   </ul>
 </div>
 
+
+
+<!-- Add more achievements below following the same structure -->
+
 <div class="section">
   <h1 class="section-title">Achievements & Certificates</h1>
   <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 20px;">
+      <h2>My Python Journey (2022-01-15)</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fphyton-webp.webp?alt=media&token=ceedc4d8-5099-4c1f-a6df-1ce508b3edcc" 
+           alt="My Python Journey" 
+           width="100%" 
+           height="100%" 
+           title="My Python Journey"
+           style="display: block; margin: 10px 0;">
+    </li>
+    <li style="margin-bottom: 20px;">
+      <h2>My Python Telegram Bot Journey (2022-04-15)</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Ftm-bot-webp.webp?alt=media&token=fbe5f22b-f455-4ed4-b731-8e8bd4696c94" 
+           alt="My Python Telegram Bot Journey (2022-04-15)" 
+           width="100%" 
+           height="100%" 
+           title="My Python Telegram Bot Journey (2022-04-15)"
+           style="display: block; margin: 10px 0;">
+    </li>
+    <li style="margin-bottom: 20px;">
+      <h2>My Algorithm Journey (2022-06-15)</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Falgorithm-webp.webp?alt=media&token=e432d6d2-28b5-4810-b771-d9e8d953e1f7" 
+           alt="My Algorithm Journey (2022-06-15)" 
+           width="100%" 
+           height="100%" 
+           title="My Algorithm Journey (2022-06-15)"
+           style="display: block; margin: 10px 0;">
+    </li>
+    <li style="margin-bottom: 20px;">
+      <h2>My HTML Journey (2022-07-15)</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fus-html-webp.webp?alt=media&token=85dbd00a-6954-46d5-ad6a-e19df6183e62" 
+           alt="My HTML Journey (2022-07-15)" 
+           width="100%" 
+           height="100%" 
+           title="My HTML Journey (2022-07-15)"
+           style="display: block; margin: 10px 0;">
+    </li>
+    <li style="margin-bottom: 20px;">
+      <h2>My CSS Journey (2022-08-15)</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fus-css-webp.webp?alt=media&token=1c2b98a1-1631-4a0a-92ac-1686938a5c91" 
+           alt="My CSS Journey (2022-08-15)" 
+           width="100%" 
+           height="100%" 
+           title="My CSS Journey (2022-08-15)"
+           style="display: block; margin: 10px 0;">
+    </li>
+    <li style="margin-bottom: 20px;">
+      <h2>My BootStrap Journey (2022-10-15)</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fus-bootstrap-webp.webp?alt=media&token=4d940f47-49cb-44b6-a08a-928271aece96" 
+           alt="My BootStrap Journey (2022-10-15)" 
+           width="100%" 
+           height="100%" 
+           title="My BootStrap Journey (2022-10-15)"
+           style="display: block; margin: 10px 0;">
+    </li>
+    <li style="margin-bottom: 20px;">
+      <h2>My JavaSCript Journey (2022-11-15)</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fsb-js-webp.webp?alt=media&token=2879a05e-f26b-4559-9b3b-097163fac00b" 
+           alt="My JavaSCript Journey (2022-11-15)" 
+           width="100%" 
+           height="100%" 
+           title="My JavaSCript Journey (2022-11-15)"
+           style="display: block; margin: 10px 0;">
+    </li>
+    <li style="margin-bottom: 20px;">
+      <h2>My Frontend Self Study Journey (2022-12-15)</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fself-study-us-webp.webp?alt=media&token=2d26e0a9-3d39-4ba7-975c-891124a02a1a" 
+           alt="My Frontend Self Study Journey (2022-12-15)" 
+           width="100%" 
+           height="100%" 
+           title="My Frontend Self Study Journey (2022-12-15)"
+           style="display: block; margin: 10px 0;">
+    </li>
     <li style="margin-bottom: 20px;">
       <h2>Udemy MERN Stack Certificate</h2>
       <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.webp?alt=media&token=795cb9c1-dae1-4ab2-9987-fd613b95b765" 
@@ -58,7 +134,6 @@
            title="My Mern Stack Udemy Certificate"
            style="display: block; margin: 10px 0;">
     </li>
-    <!-- Add more achievements below following the same structure -->
     <li style="margin-bottom: 20px;">
       <h2>My Java Script Algorithms and Data Structure Certificate</h2>
       <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Ffreecodecamp-webp.webp?alt=media&token=cafab9ff-4b68-420c-b357-51226bbfa827" 
@@ -68,7 +143,7 @@
            title="My Java Script Algorithms and Data Structure Certificate"
            style="display: block; margin: 10px 0;">
     </li>
-        <li style="margin-bottom: 20px;">
+    <li style="margin-bottom: 20px;">
       <h2>My MERN Stack Sammi Ac BootCamp</h2>
       <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fsammi-ac-webp.webp?alt=media&token=4c6c8c0c-ef9b-4f3b-963e-4ff204f00d6f" 
            alt="Description of another achievement" 
@@ -77,8 +152,15 @@
            title="My MERN Stack Sammi Ac BootCamp"
            style="display: block; margin: 10px 0;">
     </li>
-
-
+      <li style="margin-bottom: 20px;">
+      <h2>Udemy Mern Full Stack Guide by Maximilian</h2>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fudemy-max-mern-webp.webp?alt=media&token=36f6cce3-a6a7-4b63-9844-ddcfe51c87d0" 
+           alt="Description of another achievement" 
+           width="100%" 
+           height="100%" 
+           title="Udemy Mern Full Stack Guide by Maximilian"
+           style="display: block; margin: 10px 0;">
+    </li>
   </ul>
 </div>
 
