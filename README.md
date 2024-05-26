@@ -48,13 +48,15 @@
 
 <div class="section">
   <div class="section-title">Achievements</div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.webp?alt=media&token=795cb9c1-dae1-4ab2-9987-fd613b95b765" 
+  <div>
+    <div>Udemy MERN Stack Certificate</div>
+        <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.webp?alt=media&token=795cb9c1-dae1-4ab2-9987-fd613b95b765" 
          alt="MERN Stack Udemy Certificate" 
          width="150" 
          height="150" 
       title="My Mern Stack Udemy Certificate"
          >
-  </a>
+  </div>
 </div>
 
 
