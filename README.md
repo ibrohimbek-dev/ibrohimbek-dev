@@ -48,16 +48,29 @@
 
 <div class="section">
   <div class="section-title">Achievements</div>
-  <div>
-    <div>Udemy MERN Stack Certificate</div>
-        <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.webp?alt=media&token=795cb9c1-dae1-4ab2-9987-fd613b95b765" 
-         alt="MERN Stack Udemy Certificate" 
-         width="150" 
-         height="150" 
-      title="My Mern Stack Udemy Certificate"
-         >
-  </div>
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 20px;">
+      <div>Udemy MERN Stack Certificate</div>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2FMERN-STACK-UDEMY-CERTIFICATE.webp?alt=media&token=795cb9c1-dae1-4ab2-9987-fd613b95b765" 
+           alt="MERN Stack Udemy Certificate" 
+           width="150" 
+           height="150" 
+           title="My Mern Stack Udemy Certificate"
+           style="display: block; margin: 10px 0;">
+    </li>
+    <!-- Add more achievements below following the same structure -->
+    <li style="margin-bottom: 20px;">
+      <div>My Java Script Algorithms and Data Structure Certificate</div>
+      <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Ffreecodecamp-webp.webp?alt=media&token=cafab9ff-4b68-420c-b357-51226bbfa827" 
+           alt="Description of another achievement" 
+           width="150" 
+           height="150" 
+           title="My Java Script Algorithms and Data Structure Certificate"
+           style="display: block; margin: 10px 0;">
+    </li>
+  </ul>
 </div>
+
 
 
 
