@@ -17,7 +17,11 @@
 <div class="section">
   <div class="section-title">Author: Ibrohimbek Alisherov</div>
   <ul class="link-list">
-    <li><a href="https://t.me/ns_uzb" target="_blank" title="Visit English on Telegram">English on Telegram</a></li>
+<li style="list-style-type: none; margin: 8px 0;">
+  <a href="https://t.me/ns_uzb" target="_blank" title="Visit English on Telegram" style="color: #007bff; text-decoration: none; font-weight: bold;">
+    English on Telegram
+  </a>
+</li>
     <li><a href="https://www.youtube.com/@nsuzb" target="_blank" title="Visit English on YouTube">English on YouTube</a></li>
     <li><a href="https://ee-words-uz.vercel.app" target="_blank" title="Visit English Online Dictionary">English Online Dictionary on Website</a></li>
   </ul>
