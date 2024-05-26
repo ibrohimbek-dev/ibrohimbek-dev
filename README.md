@@ -103,7 +103,7 @@
 						width="50" height="50" />
 					<img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" width="50"
 						height="50" />
-					<img src="https://img.icons8.com/?size=100&id=PaVDodKP5o6b&format=png&color=000000" alt="mui" width="50"
+					<img src="https://img.icons8.com/?size=100&id=PaVDodKP5o6b&format=png&color=ffffff" alt="mui" width="50"
 						height="50" />
 					<img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" alt="sass" width="50"
 						height="50" />
