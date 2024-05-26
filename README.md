@@ -5,9 +5,14 @@
 - 📫 How to reach me t.me: @memberofns
 
 <div>
-                <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-links-assets%2Fme-linkedin-webp.webp?alt=media&token=3d299a40-7f5a-4762-8956-33a0bbd35db8" alt="Admin" style="vertical-align: middle; margin-right: 8px;">
-
+  <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fme-linkedin-jpg-rounded-webp.webp?alt=media&token=c50f8ade-bcca-4ef9-883e-4d365576c631" 
+       alt="Ibrohimbek Alisherov on LinkedIn" 
+       title="Ibrohimbek Alisherov on LinkedIn" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; display: block; margin: 0 auto;">
 </div>
+
 
 <div class="section">
   <div class="section-title">Author: Ibrohimbek Alisherov</div>
