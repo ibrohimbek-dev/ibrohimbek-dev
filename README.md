@@ -18,5 +18,5 @@
 <div>
 		<img
 						src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000"
-						alt="html" width="40" height="40" title="HTML"/>
+						alt="html" width="50" height="50" title="HTML"/>
 	</div>
