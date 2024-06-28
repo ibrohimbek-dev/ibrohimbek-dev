@@ -35,9 +35,7 @@
             <ul class="link-list">
                 <li>
                     <a rel="noopener" href="https://t.me/devcode0101" target="_blank"
-                        title="Visit Coding Link Tree">Coding
-                        on
-                        Telegram</a>
+                        title="Visit Coding Link Tree">Click Here To See My Coding Link Tree!</a>
                 </li>                
             </ul>
         </div>
