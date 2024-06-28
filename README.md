@@ -47,6 +47,14 @@
                 </li>               
             </ul>
         </div>
+  <div class="section">
+            <h1 class="section-title">My Portfolio:</h1>
+            <ul class="link-list">
+                <li>
+                    <a rel="noopener" href="https://linktr.ee/ibrohimbek_dev" target="_blank" title="Visit My Link Tree">Click Here To See My Portfolio!</a>
+                </li>               
+            </ul>
+        </div>
         <div class="section">
             <h1 class="section-title">Languages and Tools</h1>
             <div>
