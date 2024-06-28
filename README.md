@@ -40,7 +40,7 @@
             </ul>
         </div>
         <div class="section">
-            <h1 class="section-title">Me Customized Link Tree:</h1>
+            <h1 class="section-title">My Customized Link Tree:</h1>
             <ul class="link-list">
                 <li>
                     <a rel="noopener" href="https://ibrohimbek.link/" target="_blank" title="Visit My Link Tree">Click Here To Contact Me!</a>
