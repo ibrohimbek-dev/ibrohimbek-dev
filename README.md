@@ -34,7 +34,7 @@
             <h1 class="section-title">Coding Social Links:</h1>
             <ul class="link-list">
                 <li>
-                    <a rel="noopener" href="https://t.me/devcode0101" target="_blank"
+                    <a rel="noopener" href="https://linktr.ee/devcode0101" target="_blank"
                         title="Visit Coding Link Tree">Click Here To See My Coding Link Tree!</a>
                 </li>                
             </ul>
