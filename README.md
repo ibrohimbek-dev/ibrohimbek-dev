@@ -68,37 +68,11 @@
             </ul>
         </div>
         <div class="section">
-            <h1 class="section-title">Me Social Links:</h1>
+            <h1 class="section-title">Me Customized Link Tree:</h1>
             <ul class="link-list">
                 <li>
-                    <a rel="noopener" href="https://t.me/ibrohimbek0127" target="_blank" title="Visit Me on Telegram">Me
-                        on
-                        Telegram</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://www.youtube.com/@ibrohimbek-dev" target="_blank"
-                        title="Visit Me on YouTube">Me
-                        on YouTube</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://www.linkedin.com/in/ibrohimbek-dev" target="_blank"
-                        title="Visit Me on LinkedIn">Me on
-                        LinkedIn</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://www.instagram.com/ibek0127" target="_blank"
-                        title="Visit Me on Instagram">Me on
-                        Instagram</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://ibrohimbek.link" target="_blank" title="Visit Me on Link Tree">Me on
-                        Link
-                        Tree</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://t.me/memberofns" target="_blank" title="Visit Me on Admin">
-                        Me on Admin</a>
-                </li>
+                    <a rel="noopener" href="https://ibrohimbek.link/" target="_blank" title="Visit Me on Telegram">Click Here To Contact Me!</a>
+                </li>               
             </ul>
         </div>
         <div class="section">
