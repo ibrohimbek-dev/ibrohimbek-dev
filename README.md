@@ -17,15 +17,16 @@
 
  <div>
         <div>
+            <h1 class="section-title">Author: Ibrohimbek Alisherov</h1>
             <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fme-linkedin-jpg-rounded-webp.webp?alt=media&token=c50f8ade-bcca-4ef9-883e-4d365576c631"
                 alt="Ibrohimbek Alisherov" title="Ibrohimbek Alisherov" width="150" height="150" />
-        </div>
+        </div>     
         <div class="section">
-            <h1 class="section-title">Author: Ibrohimbek Alisherov</h1>
+            <h1 class="section-title">English Social Links:</h1>
             <ul class="link-list">
                 <li>
                     <a rel="noopener" href="https://linktr.ee/ns_uzb" target="_blank"
-                        title="Visit English on Telegram">Click Here To See My English Link Tree!</a>
+                        title="Visit English Tree Link">Click Here To See My English Link Tree!</a>
                 </li>                
             </ul>
         </div>
@@ -34,25 +35,10 @@
             <ul class="link-list">
                 <li>
                     <a rel="noopener" href="https://t.me/devcode0101" target="_blank"
-                        title="Visit Coding on Telegram">Coding
+                        title="Visit Coding Link Tree">Coding
                         on
                         Telegram</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://www.youtube.com/@devcode0101" target="_blank"
-                        title="Visit Coding on YouTube">Coding on
-                        YouTube</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://www.codepen.io/brian-uz" target="_blank"
-                        title="Visit Coding on Code Pen">Coding on Code
-                        Pen</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://www.github.com/ibrohimbek-dev" target="_blank"
-                        title="Visit Coding on GitHub">Coding on
-                        GitHub</a>
-                </li>
+                </li>                
             </ul>
         </div>
         <div class="section">
