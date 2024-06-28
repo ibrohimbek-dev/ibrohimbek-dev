@@ -24,21 +24,9 @@
             <h1 class="section-title">Author: Ibrohimbek Alisherov</h1>
             <ul class="link-list">
                 <li>
-                    <a rel="noopener" href="https://t.me/ns_uzb" target="_blank"
-                        title="Visit English on Telegram">English
-                        on
-                        Telegram</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://www.youtube.com/@nsuzb" target="_blank"
-                        title="Visit English on YouTube">English on
-                        YouTube</a>
-                </li>
-                <li>
-                    <a rel="noopener" href="https://ee-words-uz.vercel.app" target="_blank"
-                        title="Visit English Online Dictionary">English
-                        Online Dictionary on Website</a>
-                </li>
+                    <a rel="noopener" href="https://linktr.ee/ns_uzb" target="_blank"
+                        title="Visit English on Telegram">Click Here To See My English Link Tree!</a>
+                </li>                
             </ul>
         </div>
         <div class="section">
@@ -71,7 +59,7 @@
             <h1 class="section-title">Me Customized Link Tree:</h1>
             <ul class="link-list">
                 <li>
-                    <a rel="noopener" href="https://ibrohimbek.link/" target="_blank" title="Visit Me on Telegram">Click Here To Contact Me!</a>
+                    <a rel="noopener" href="https://ibrohimbek.link/" target="_blank" title="Visit My Link Tree">Click Here To Contact Me!</a>
                 </li>               
             </ul>
         </div>
