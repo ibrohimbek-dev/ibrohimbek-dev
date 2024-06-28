@@ -8,9 +8,9 @@
 
 💬 Ask me about React, Node.js, Javascript, OOP, Nest.js ...
 
-📫 How to reach me https://t.me/memberofns
+📫 How to reach me https://ibrohimbek.link/
 
-📄 Know about my experiences https://t.me/devcode0101
+📄 Know about my experiences https://linktr.ee/ibrohimbek_dev
 
 ⚡ Fun fact I am crazy about learning new things in tech world
 
