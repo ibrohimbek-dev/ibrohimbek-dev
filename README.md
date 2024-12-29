@@ -105,9 +105,7 @@
                 <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="docker" width="50"
                     height="50" />
                 <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" alt="linux"
-                    width="50" height="50" />
-                <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="ngnix"
-                    width="50" height="50" />
+                    width="50" height="50" />                
                 <img src="https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000" alt="grafana"
                     width="50" height="50" />
                 <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"  
