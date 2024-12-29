@@ -98,9 +98,9 @@
                     width="50" height="50" />
                 <img src="https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000" alt="grafana"
                     width="50" height="50" />
-                <img src="https://firebasestorage.googleapis.com/v0/b/other-project-data.appspot.com/o/github-resume-logos%2Fgraphql.png?alt=media&token=4c7cc841-4a26-408e-b1da-3ac2ffbb138e"  
+                <img src=""  
                     alt="grafana" width="50" height="50" />
-                <img src="https://firebasestorage.googleapis.com/v0/b/other-project-data.appspot.com/o/github-resume-logos%2Fpm2.png?alt=media&token=bea489e2-b46b-4b0b-8afe-573ed7fff65d"  
+                <img src="https://img.icons8.com/?size=100&id=o415ZlFwYWYe&format=png&color=000000"  
                     alt="grafana" width="50" height="50" />
             </div>
         </div>
