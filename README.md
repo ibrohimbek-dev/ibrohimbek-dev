@@ -79,9 +79,7 @@
                 <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="50"
                     height="50" />
                 <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" alt="github" width="50"
-                    height="50" />
-                <img src="https://img.icons8.com/?size=100&id=AU6Wc7r56Fxz&format=png&color=000000" alt="next js"
-                    width="50" height="50" />
+                    height="50" />                
                 <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="node js"
                     width="50" height="50" />
                 <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=fe7f2d" alt="express js"
@@ -114,24 +112,30 @@
                     alt="nuxtjs" width="50" height="50" />
                 <img src="https://img.icons8.com/?size=100&id=R9ClDX2LkAoM&format=png&color=000000"  
                     alt="meteor" width="50" height="50" />
-                <img src=""  
-                    alt="" width="50" height="50" />
-                <img src=""  
-                    alt="" width="50" height="50" />
-                <img src=""  
-                    alt="" width="50" height="50" />
-                <img src=""  
-                    alt="" width="50" height="50" />
-                <img src=""  
-                    alt="" width="50" height="50" />
-                <img src=""  
-                    alt="" width="50" height="50" />
-                <img src=""  
-                    alt="" width="50" height="50" />
-                <img src=""  
-                    alt="" width="50" height="50" />
-                <img src=""  
-                    alt="" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000"  
+                    alt="firebase" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=NJ6kN9muBenr&format=png&color=000000"  
+                    alt="couchdb" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=xNOPrIk9lLyq&format=png&color=000000"  
+                    alt="gitlab" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=32380&format=png&color=000000"  
+                    alt="aws lambda" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=sBo1RJ3rjbje&format=png&color=000000"  
+                    alt="netlify" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=31085&format=png&color=000000"  
+                    alt="heroku" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=50196&format=png&color=000000"  
+                    alt="rest api" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000"  
+                    alt="jest" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=TMntsbmYIeTi&format=png&color=000000"  
+                    alt="mocha" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=3VGtaw5gCc8T&format=png&color=000000"  
+                    alt="redux" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=gKfcEStXI1Hm&format=png&color=000000"  
+                    alt="mongoose" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000"  
+                    alt="jwt" width="50" height="50" />
             </div>
         </div>
     </div>
