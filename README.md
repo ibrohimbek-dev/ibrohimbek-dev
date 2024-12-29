@@ -94,7 +94,7 @@
                     height="50" />
                 <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" alt="github" width="50"
                     height="50" />                
-                <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="node js"
+                <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="node js"
                     width="50" height="50" />
                 <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=fe7f2d" alt="express js"
                     width="50" height="50" />
