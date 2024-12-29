@@ -98,8 +98,8 @@
                     width="50" height="50" />
                 <img src="https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000" alt="grafana"
                     width="50" height="50" />
-                <img src="https://firebasestorage.googleapis.com/v0/b/other-project-data.appspot.com/o/github-resume-logos%2Fpm2.webp?alt=media&token=3bbc8a70-83f7-4e6e-b499-76d6096e781c" alt="grafana"
-                    width="50" height="50" />
+                <img src="https://firebasestorage.googleapis.com/v0/b/other-project-data.appspot.com/o/github-resume-logos%2Fpm2-removebg-preview.png?alt=media&token=e541e467-f8eb-4601-9648-3b6fbd3cb173"  
+                    alt="grafana" width="50" height="50" />
             </div>
         </div>
     </div>
