@@ -56,6 +56,19 @@
             </ul>
         </div>
         <div class="section">
+         <div class="section">
+            <p>I have a solid foundation in various programming languages and tools, including:</p>
+            <ul>
+               <li><strong>Frontend Technologies:</strong> Proficient in HTML, CSS, JavaScript, and frameworks like React, Angular, Vue.js, and Svelte.</li>
+               <li><strong>Backend Development:</strong> Skilled in Node.js, Express.js, and databases such as MongoDB and CouchDB.</li>
+               <li><strong>State Management:</strong> Familiar with Redux and Context API.</li>
+               <li><strong>Styling:</strong> Experience with Tailwind CSS, Bootstrap, and Material-UI.</li>
+               <li><strong>DevOps:</strong> Knowledgeable in Git, Docker, and cloud platforms like AWS, Netlify, and Heroku.</li>
+               <li><strong>Testing:</strong> Proficient in Jest and Mocha for testing applications.</li>
+               <li><strong>APIs:</strong> Experienced in building and consuming REST and GraphQL APIs.</li>
+            </ul>
+            <p>This diverse skill set enables me to build full-stack applications efficiently.</p>
+        </div>
             <h1 class="section-title">Languages and Tools</h1>
             <div>
                 <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" alt="python"
