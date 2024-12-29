@@ -47,7 +47,7 @@
                 </li>               
             </ul>
         </div>
-  <div class="section">
+       <div class="section">
             <h1 class="section-title">My Portfolio Link Tree:</h1>
             <ul class="link-list">
                 <li>
@@ -56,19 +56,20 @@
             </ul>
         </div>
         <div class="section">
-         <div class="section">
-            <p>I have a solid foundation in various programming languages and tools, including:</p>
+          <div>
+            <p>I have a comprehensive skill set in various programming languages and tools, including:</p>
             <ul>
-               <li><strong>Frontend Technologies:</strong> Proficient in HTML, CSS, JavaScript, and frameworks like React, Angular, Vue.js, and Svelte.</li>
-               <li><strong>Backend Development:</strong> Skilled in Node.js, Express.js, and databases such as MongoDB and CouchDB.</li>
-               <li><strong>State Management:</strong> Familiar with Redux and Context API.</li>
-               <li><strong>Styling:</strong> Experience with Tailwind CSS, Bootstrap, and Material-UI.</li>
-               <li><strong>DevOps:</strong> Knowledgeable in Git, Docker, and cloud platforms like AWS, Netlify, and Heroku.</li>
-               <li><strong>Testing:</strong> Proficient in Jest and Mocha for testing applications.</li>
-               <li><strong>APIs:</strong> Experienced in building and consuming REST and GraphQL APIs.</li>
+                <li><strong>Frontend Technologies:</strong> Proficient in HTML, CSS, JavaScript, and frameworks like React, Angular, Vue.js, and Svelte.</li>
+                <li><strong>Backend Development:</strong> Skilled in Node.js, Express.js, and databases such as MongoDB and CouchDB.</li>
+                <li><strong>State Management:</strong> Experienced with Redux and Context API.</li>
+                <li><strong>Styling:</strong> Knowledgeable in Tailwind CSS, Bootstrap, and Material-UI.</li>
+                <li><strong>DevOps:</strong> Familiar with Git, Docker, and cloud platforms like AWS, Netlify, and Heroku.</li>
+                <li><strong>Testing:</strong> Proficient in Jest and Mocha.</li>
+                <li><strong>APIs:</strong> Experienced in building and consuming REST and GraphQL APIs.</li>
+                <li><strong>Other Technologies:</strong> Knowledge of Python, Nginx, Grafana, and JWT for secure authentication.</li>
             </ul>
-            <p>This diverse skill set enables me to build full-stack applications efficiently.</p>
-        </div>
+             <p>This diverse skill set empowers me to develop full-stack applications efficiently and effectively.</p>
+           </div>
             <h1 class="section-title">Languages and Tools</h1>
             <div>
                 <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" alt="python"
@@ -149,6 +150,8 @@
                     alt="mongoose" width="50" height="50" />
                 <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000"  
                     alt="jwt" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=MGa3MFjVDCLA&format=png&color=000000"  
+                    alt="nginx" width="50" height="50" />
             </div>
         </div>
     </div>
