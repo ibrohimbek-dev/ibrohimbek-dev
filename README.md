@@ -51,7 +51,7 @@
             <h1 class="section-title">My Portfolio Link Tree:</h1>
             <ul class="link-list">
                 <li>
-                    <a rel="noopener" href="https://linktr.ee/ibrohimbek_dev" target="_blank" title="Visit My Link Tree">Click Here To See My Portfolio!</a>
+                    <a rel="noopener" target="_blank" href="https://linktr.ee/ibrohimbek_dev" target="_blank" title="Visit My Link Tree">Click Here To See My Portfolio!</a>
                 </li>               
             </ul>
         </div>
