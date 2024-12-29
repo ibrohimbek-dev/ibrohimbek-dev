@@ -98,10 +98,40 @@
                     width="50" height="50" />
                 <img src="https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000" alt="grafana"
                     width="50" height="50" />
-                <img src=""  
-                    alt="grafana" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"  
+                    alt="react" width="50" height="50" />
                 <img src="https://img.icons8.com/?size=100&id=o415ZlFwYWYe&format=png&color=000000"  
-                    alt="grafana" width="50" height="50" />
+                    alt="graphql" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000"  
+                    alt="angular" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=eETV3RNHVrWA&format=png&color=000000"  
+                    alt="vuejs" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=Mm35TzLKahiF&format=png&color=000000"  
+                    alt="svelte" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000"  
+                    alt="nextjs" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=nvrsJYs7j9Vb&format=png&color=000000"  
+                    alt="nuxtjs" width="50" height="50" />
+                <img src="https://img.icons8.com/?size=100&id=R9ClDX2LkAoM&format=png&color=000000"  
+                    alt="meteor" width="50" height="50" />
+                <img src=""  
+                    alt="" width="50" height="50" />
+                <img src=""  
+                    alt="" width="50" height="50" />
+                <img src=""  
+                    alt="" width="50" height="50" />
+                <img src=""  
+                    alt="" width="50" height="50" />
+                <img src=""  
+                    alt="" width="50" height="50" />
+                <img src=""  
+                    alt="" width="50" height="50" />
+                <img src=""  
+                    alt="" width="50" height="50" />
+                <img src=""  
+                    alt="" width="50" height="50" />
+                <img src=""  
+                    alt="" width="50" height="50" />
             </div>
         </div>
     </div>
