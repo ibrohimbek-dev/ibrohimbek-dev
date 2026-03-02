@@ -18,7 +18,7 @@
  <div>
         <div>
             <h1 class="section-title">Author: Ibrohimbek Alisherov</h1>
-            <img src="https://1024terabox.com/s/1iQI-6eQ8rXoDtDP5LdBHYQ"
+            <img src="https://ibrohimbek.link/assets/me.webp"
                 alt="Ibrohimbek Alisherov" title="Ibrohimbek Alisherov" width="150" height="150" />
         </div>     
         <div class="section">
