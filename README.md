@@ -18,7 +18,7 @@
  <div>
         <div>
             <h1 class="section-title">Author: Ibrohimbek Alisherov</h1>
-            <img src="https://firebasestorage.googleapis.com/v0/b/ibrohimbek-links.appspot.com/o/my-github-assets%2Fme-linkedin-jpg-rounded-webp.webp?alt=media&token=c50f8ade-bcca-4ef9-883e-4d365576c631"
+            <img src="https://1024terabox.com/s/1iQI-6eQ8rXoDtDP5LdBHYQ"
                 alt="Ibrohimbek Alisherov" title="Ibrohimbek Alisherov" width="150" height="150" />
         </div>     
         <div class="section">
